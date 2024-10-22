@@ -11,6 +11,7 @@
     chosen {
         zmk,kscan = &mock_kscan;
         zephyr,display = &oled;
+        zmk,physical-layout = &layout_0;
     };
 
     default_transform: keymap_transform_0 {
