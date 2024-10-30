@@ -2,8 +2,6 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: inorichi
-      url-base: https://github.com/inorichi
     - name: englmaxi
       url-base: https://github.com/englmaxi
   projects:
@@ -11,9 +9,9 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-config
+    - name: zmk-dongle-display
       remote: englmaxi
-      revision: master
+      revision: main
   self:
     path: config
     
