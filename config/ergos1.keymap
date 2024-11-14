@@ -49,6 +49,7 @@
 &kp LEFT_SHIFT  &kp Z      &kp X         &kp C         &kp V    &kp B                &kp F5     &kp F12   &kp C_VOL_DN  &kp C_VOLUME_UP  &kp N      &kp M           &kp COMMA         &kp PERIOD         &kp SLASH        &mt RIGHT_SHIFT EQUAL
                 &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp DEL  &mt LCTRL BACKSPACE  &kp ENTER  &kp HOME  &kp CAPSLOCK  &kp ENTER        &kp SPACE  &kp LEFT_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp RIGHT_ARROW
                                                                                                 &kp END   &kp GRAVE
+
             >;
         };
 
