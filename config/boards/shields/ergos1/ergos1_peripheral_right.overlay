@@ -24,4 +24,4 @@
 };
 &layout_0 {
         kscan = <&kscan0>;
-}
+};
