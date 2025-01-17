@@ -7,6 +7,9 @@
 #include "ergos1.dtsi"
 
 &kscan0 {
+    compatible = "zmk,kscan-gpio-matrix";
+    label = "KSCAN";
+    wakeup-source;
     col-gpios
         = <&pro_micro 14 GPIO_ACTIVE_HIGH>
         , <&pro_micro 16 GPIO_ACTIVE_HIGH>
