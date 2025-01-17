@@ -18,3 +18,6 @@
         , <&pro_micro 3 GPIO_ACTIVE_HIGH>
         ;
 };
+&layout_0 {
+        kscan = <&kscan0>;
+}
